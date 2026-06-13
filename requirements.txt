@@ -1,0 +1,58 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+groq
+
+# Environment Variables
+python-dotenv
+
+# Web Search Tool
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+html5lib
+
+# React Agent / LCEL / Runnables Support
+langsmith
+
+# Data Handling
+pydantic
+typing-extensions
+
+# Async Support
+aiohttp
+httpx
+
+# Tokenizer / Text Processing
+tiktoken
+
+# Logging and Utilities
+rich
+
+# Optional Vector / Embedding Support
+chromadb
+sentence-transformers
+
+# Optional Parsing and Document Loaders
+unstructured
+pypdf
+
+# Fast API Backend (Optional but recommended)
+fastapi
+uvicorn
+
+# Development Utilities
+ipykernel
+jupyter
+
+# JSON and Validation Utilities
+orjson
+
+# Retry Handling
+tenacity
